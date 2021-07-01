@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ariel</h1>
+<h2 align="center">Data Scientist & Engineer</h2>
 
-<!--
-**avallarino-ar/avallarino-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Passionate about solving problems with data and learning new technologies.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---   
+
+👨🏻‍💻  
+
++ I work as a **Data Scientist** and as a **Data Engineer** collecting, cleaning, processing, analyzing and modeling data to extract knowledge and developing data products for decision making.
+
+---  
+
+#### 📚 Education
+
++ **Master’s Degree in Data Science | 2017 – Present** (working on the thesis)   
+*ITAM (Instituto Tecnol gico Aut nomo de M xico – Mex.)*
+
++ **Diploma in Agile Methodologies | 2021 – Present**  
+*UTN BA e-learning center (Universidad Tecnol gica Nacional – Arg.)*
+
++ **Diploma in Applied Statistics | 2020 – 2021**  
+*ITAM (Instituto Tecnol gico Aut nomo de M xico – Mex.)*  
+
++ **Information Systems Engineer | 2002 - 2007**  
+*UTN FRLP (Universidad Tecnol gica Nacional – Arg.)*  
+
+---  
+
+#### 🥷🏻 Skills:
+
+* Python 
+	* Numpy, Pandas, scikit-learn, Tensorflow, Keras, Dash, Plotly, Matplotlib, Seaborn, Flask, Django Rest Framework.   
+* R 
+	* tidyverse, dplyr, ggplot2, Shiny, plotly.
+* SQL   
+* SQLServer, MySQL, MongoDB, Neo4j.  
+* Spark  
+* Pig  
+* Hive  
+* Docker  
+* Scraping  
+* Bash  
+* Airflow  
+* Beam  
+* NiFi  
+* Kafka  
+* JavaScript  
+* AWS EMR | EC2 | S3  
+* SAP ABAP | SAP PI/PO  
+
+---  
+
