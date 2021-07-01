@@ -16,16 +16,16 @@
 #### 📚 Education
 
 + **Master’s Degree in Data Science | 2017 – Present** (working on the thesis)   
-*ITAM (Instituto Tecnol gico Aut nomo de M xico – Mex.)*
+*ITAM (Instituto Tecnológico Autónomo de México – Mex.)*
 
 + **Diploma in Agile Methodologies | 2021 – Present**  
-*UTN BA e-learning center (Universidad Tecnológica Nacional – Arg.)*
+*UTN BA e-learning center (Universidad Tecnológica Nacional BA – Arg.)*
 
 + **Diploma in Applied Statistics | 2020 – 2021**  
-*ITAM (Instituto Tecnol gico Autónomo de M xico – Mex.)*  
+*ITAM (Instituto Tecnológico Autónomo de México – Mex.)*  
 
 + **Information Systems Engineer | 2002 - 2007**  
-*UTN FRLP (Universidad Tecnológica Nacional – Arg.)*  
+*UTN FRLP (Universidad Tecnológica Nacional FRLP – Arg.)*  
 
 ---  
 
