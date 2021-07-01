@@ -19,13 +19,13 @@
 *ITAM (Instituto Tecnol gico Aut nomo de M xico – Mex.)*
 
 + **Diploma in Agile Methodologies | 2021 – Present**  
-*UTN BA e-learning center (Universidad Tecnol gica Nacional – Arg.)*
+*UTN BA e-learning center (Universidad Tecnológica Nacional – Arg.)*
 
 + **Diploma in Applied Statistics | 2020 – 2021**  
-*ITAM (Instituto Tecnol gico Aut nomo de M xico – Mex.)*  
+*ITAM (Instituto Tecnol gico Autónomo de M xico – Mex.)*  
 
 + **Information Systems Engineer | 2002 - 2007**  
-*UTN FRLP (Universidad Tecnol gica Nacional – Arg.)*  
+*UTN FRLP (Universidad Tecnológica Nacional – Arg.)*  
 
 ---  
 
