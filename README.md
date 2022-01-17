@@ -18,7 +18,7 @@
 + **Master’s Degree in Data Science | 2017 – Present** (working on the thesis)   
 *ITAM (Instituto Tecnológico Autónomo de México – Mex.)*
 
-+ **Diploma in Agile Methodologies | 2021 – Present**  
++ **Diploma in Agile Methodologies | 2021**  
 *UTN BA e-learning center (Universidad Tecnológica Nacional BA – Arg.)*
 
 + **Diploma in Applied Statistics | 2020 – 2021**  
