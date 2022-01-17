@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
-<h2 align="center">Data Scientist & Engineer</h2>
+<h2 align="center">Machine Learning Engineer | Data Scientist</h2>
 
 
 <h3 align="center">Passionate about solving problems with data and learning new technologies.</h3>
@@ -9,7 +9,7 @@
 
 👨🏻‍💻  
 
-+ I work as a **Data Scientist** and as a **Data Engineer** collecting, cleaning, processing, analyzing and modeling data to extract knowledge and developing data products for decision making.
++ I work as a **Machine Learning Engineer**, enabling models in production environments.
 
 ---  
 
