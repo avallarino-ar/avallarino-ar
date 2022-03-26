@@ -47,6 +47,7 @@
 * Beam  
 * NiFi  
 * Kafka  
+* mlflow
 * JavaScript  
 * AWS EMR | EC2 | S3  
 * SAP ABAP | SAP PI/PO  
