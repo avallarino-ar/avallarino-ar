@@ -50,6 +50,9 @@
 * mlflow
 * JavaScript  
 * AWS EMR | EC2 | S3  
+* Blockchain
+	* Smart Contracts
+	* Solidity
 * SAP ABAP | SAP PI/PO  
 
 ---  
