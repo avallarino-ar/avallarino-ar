@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
-<h2 align="center">Machine Learning Engineer | Data Scientist</h2>
+<h2 align="center">AI Engineer | Machine Learning Engineer | Data Scientist</h2>
 
 
 <h3 align="center">Passionate about solving problems with data and learning new technologies.</h3>
